@@ -16,9 +16,9 @@
 <td width="50%">
 <h3 align="center">Proyecto SpringSales</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="" width="400" alt="Proyecto SpringSales"></a>
+<a href="https://github.com/CristianZanabria/Sales-BackEnd.git" target="_blank"><img src="" width="400" alt="Proyecto SpringSales"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/CristianZanabria/Sales-BackEnd.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
