@@ -32,9 +32,9 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura Microservice Java </h3>
+<h3 align="center">Proyecto Microservice Java</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="" width="400" alt=""></a>
+<a href="" target="_blank"><img src="" width="400" alt="Proyecto Microservice Java"></a>
 <br>
 <p>
 <a href="" target="_blank">
