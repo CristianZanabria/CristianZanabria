@@ -10,7 +10,7 @@
 - ✏️ Me gusta escribir código Java
 <br>
 
-## Proyectos *bombitas*
+## Proyectos en *Java*
 <table>
 <tr>
 <td width="50%">
