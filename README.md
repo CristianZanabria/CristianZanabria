@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">Proyecto SpringSales</h3>
 <div align="center">
-<a href="[https://github.com/CristianZanabria/Sales-BackEnd.git](https://github.com/CristianZanabria/Sales-BackEnd/tree/7c1dd6a5e2a3129f9d7a5a29c33bf391b2404a12/zdevs-sales)" target="_blank"><img src="" width="400" alt="Proyecto SpringSales"></a>
+<a href="https://github.com/CristianZanabria/Sales-BackEnd/tree/7c1dd6a5e2a3129f9d7a5a29c33bf391b2404a12" target="_blank"><img src="" width="400" alt="Proyecto SpringSales"></a>
 <p>
 <a href="https://github.com/CristianZanabria/Sales-BackEnd.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
