@@ -52,7 +52,7 @@
 <td width="50%">
 <h3 align="center">Proyecto con Java WebFlux</h3>
 <div align="center">
-<a href="" target="_blank"><img src="" width="400" alt=""></a>
+<a href="" target="_blank"><img src="" width="400" alt="Proyecto con Java WebFlux"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -64,9 +64,9 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center"></h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="" target="_blank"><img src="" width="400" alt=""></a>
 <p>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
