@@ -1,6 +1,5 @@
 <div align="center">
 <h1 align="center">✨ **Hola, soy Cristian Zanabria 👋**  </h1>
-<h4 align="center">"El código no solo resuelve problemas, sino que también crea oportunidades." </h4>
 </div>
 <img src="">
 
@@ -9,6 +8,7 @@
 -💻 Backend Developer que ama escribir código en Java.  
 -🎵 Fan de la música (U2 ❤️) y los videojuegos del estilo Souls.  
 -🌱 Siempre aprendiendo y compartiendo sobre desarrollo de software.
+<h4 align="center">"El código no solo resuelve problemas, sino que también crea oportunidades." </h4>
 <br>
 
 ## Proyectos en *Java*
