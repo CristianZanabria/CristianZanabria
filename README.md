@@ -66,7 +66,7 @@
 <td width="50%">
 <h3 align="center">Proyecto de reservacion de restuarante</h3>
 <div align="center">
-<a href="" target="_blank"><img src="" width="400" alt=""></a>
+<a href="" target="_blank"><img src="" width="400" alt="Proyecto con java 21 y springBoot 3"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
