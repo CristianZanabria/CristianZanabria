@@ -65,7 +65,7 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">Proyecto de reservacion de restuarante</h3>
+<h3 align="center">Proyecto de reservación de restaurante</h3>
 <div align="center">
 <a href="" target="_blank"><img src="" width="400" alt="Proyecto con Java 21 y springBoot 3"></a>
 <p>
@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Este proyecto está desarrollado con<strong>**Java 21** y **Spring Boot 3**</strong> - integrando seguridad con **Spring Security** y autenticación basada en **JWT** <strong>Además,</strong>cuenta con una pasarela de pagos implementada con <strong>**PayPal**,</strong>permitiendo gestionar reservas y pagos de manera segura y eficiente.</p>
 </div>
                                                                                       
 </td>  
