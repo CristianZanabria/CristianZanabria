@@ -70,7 +70,7 @@
 <div align="center">
 <a href="" target="_blank"><img src="" width="400" alt="Proyecto con Java 21 y springBoot 3"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<a href="https://github.com/CristianZanabria/restaurant_reservation_api.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
