@@ -6,9 +6,8 @@
 ## Sobre mi
 
 -💻 Backend Developer que ama escribir código en Java.  
--🎵 Fan de la música (U2 ❤️) y los videojuegos del estilo Souls.  
+-🎯 Mi misión: Crear soluciones innovadoras con código limpio y escalable. 
 -🌱 Siempre aprendiendo y compartiendo sobre desarrollo de software.
-<h4 align="center">"El código no solo resuelve problemas, sino que también crea oportunidades." </h4>
 <br>
 
 ## Proyectos en *Java*
