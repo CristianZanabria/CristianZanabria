@@ -5,9 +5,9 @@
 
 ## Sobre mi
 
--💻 Backend Developer que ama escribir código en Java.  
--🎯 Mi misión: Crear soluciones innovadoras con código limpio y escalable. 
--🌱 Siempre aprendiendo y compartiendo sobre desarrollo de software.
+- 💻 Backend Developer que ama escribir código en Java.  
+- 🎯 Mi misión: Crear soluciones innovadoras con código limpio y escalable. 
+- 🌱 Siempre aprendiendo y compartiendo sobre desarrollo de software.
 <br>
 
 ## Proyectos en *Java*
