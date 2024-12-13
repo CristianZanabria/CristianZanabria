@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">✨ **Hola, soy Cristian Zanabria 👋**  </h1>
+<h1 align="center"> Hola, soy Cristian Zanabria 👋  </h1>
 </div>
 <img src="">
 
