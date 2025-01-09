@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center"> Hola, soy Cristian Zanabria 👋  </h1>
 </div>
-<img src="">
+<img src="![image](https://github.com/user-attachments/assets/0a2dc4b6-2c29-4508-a05e-19355c1ea72e)
+">
 
 ## Sobre mi
 
