@@ -32,22 +32,24 @@
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center">Proyecto Microservice Java</h3>
-<div align="center">                                       
-<a href="" target="_blank"><img src="" width="400" alt="Proyecto Microservice Java"></a>
-<br>
+<h3 align="center">Proyecto de reservación de restaurante</h3>
+<div align="center">
+<a href="" target="_blank"><img src="" width="400" alt="Proyecto con Java 21 y springBoot 3"></a>
 <p>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/CristianZanabria/restaurant_reservation_api.git" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Para crear este proyecto fue <strong>imprescindible</strong> trabajar con la arquitectura de microservicios. Esto nos permitió aplicar los conceptos de Discovery Server y Config Server, y comprender cómo se crea un proyecto con Spring Boot 3 y Java microservices.</p>
-</div>                                                             
+<p>Este proyecto está desarrollado con<strong> Java 21 y Spring Boot 3 </strong> 
+integrando seguridad con Spring Security y autenticación basada en JWT 
+  <strong>Además, </strong>cuenta con una pasarela de pagos implementada con <strong> PayPal,
+   </strong> permitiendo gestionar reservas y pagos de manera segura y eficiente.</p>
+</div>
+                                                                                      
+</td>  
 </table>                                                                                 
 </div>
 <br>
-
 <table>
 <tr>
 <td width="50%">
