@@ -38,7 +38,20 @@
 <td width="50%">
 <h3 align="center">Reservación de Restaurante</h3>
 <div align="center">
-<h4 align="center">Proyecto con Java 21 y springBoot 3</h4>
+<div align="center">
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-17-blue" alt="Java" style="margin: 5px;">
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.shields.io/badge/SpringBoot-3-green" alt="Spring Boot" style="margin: 5px;">
+  </a>
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://img.shields.io/badge/JWT-Security-yellow" alt="JWT" style="margin: 5px;">
+  </a>
+  <a href="https://spring.io/projects/spring-security" target="_blank">
+    <img src="https://img.shields.io/badge/Spring%20Security-Enabled-brightgreen" alt="Spring Security" style="margin: 5px;">
+  </a>
+</div>
 <p>
 <a href="https://github.com/CristianZanabria/restaurant_reservation_api.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
