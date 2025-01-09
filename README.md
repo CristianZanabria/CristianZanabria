@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/Spring%20Security-Enabled-brightgreen" alt="Spring Security" style="margin: 5px;">
   </a>
 </div>
+<br>
 <p>
 <a href="https://github.com/CristianZanabria/Sales-BackEnd/tree/7c1dd6a5e2a3129f9d7a5a29c33bf391b2404a12/zdevs-sales" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -61,6 +62,7 @@
     <img src="https://img.shields.io/badge/Spring%20Security-Enabled-brightgreen" alt="Spring Security" style="margin: 5px;">
   </a>
 </div>
+<br>
 <p>
 <a href="https://github.com/CristianZanabria/restaurant_reservation_api.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
