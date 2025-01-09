@@ -36,7 +36,7 @@
 </a>
 </p>
 <div>
-<p>Proyecto de Ventas desarrollado en <strong>Java con Spring Boot y Spring Security</strong>
+<p>Proyecto de Ventas desarrollado en <strong>Java 17 con Spring Boot 3 y Spring Security</strong>
   . Este proyecto está construido completamente con Java,  aplicando programación funcional. Se han implementado pruebas unitarias para garantizar la calidad del código.</p>
 </div>
 
