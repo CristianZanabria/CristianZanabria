@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">Proyecto SpringSales</h3>
 <div align="center">
-<a href="https://github.com/CristianZanabria/Sales-BackEnd/tree/7c1dd6a5e2a3129f9d7a5a29c33bf391b2404a12/zdevs-sales" target="_blank"><img width="400" alt="Proyecto SpringSales"></a>
+<a href="https://github.com/CristianZanabria/Sales-BackEnd/tree/7c1dd6a5e2a3129f9d7a5a29c33bf391b2404a12/zdevs-sales" target="_blank"><p> width="400" alt="Proyecto SpringSales"</p>p</a>
 <p>
 <a href="https://github.com/CristianZanabria/Sales-BackEnd/tree/7c1dd6a5e2a3129f9d7a5a29c33bf391b2404a12/zdevs-sales" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -34,7 +34,7 @@
 <td width="50%">
 <h3 align="center">Proyecto de reservación de restaurante</h3>
 <div align="center">
-<a href="" target="_blank"><img  width="400" alt="Proyecto con Java 21 y springBoot 3"></a>
+<a href="" target="_blank"><p>  width="400" alt="Proyecto con Java 21 y springBoot 3"</p>p</a>
 <p>
 <a href="https://github.com/CristianZanabria/restaurant_reservation_api.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
