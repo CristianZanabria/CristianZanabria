@@ -49,7 +49,7 @@
 <div align="center">
 <div align="center">
   <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-17-blue" alt="Java" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Java-21-blue" alt="Java" style="margin: 5px;">
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img src="https://img.shields.io/badge/SpringBoot-3-green" alt="Spring Boot" style="margin: 5px;">
