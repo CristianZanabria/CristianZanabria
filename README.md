@@ -14,7 +14,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Proyecto SpringSales</h3>
+<h3 align="center">Ventas en Línea</h3>
 <div align="center">
 <h4 align="center">Proyecto con Java 17 y springBoot 3</h4>
 <p>
@@ -32,7 +32,7 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Proyecto de reservación de restaurante</h3>
+<h3 align="center">Reservación de Restaurante</h3>
 <div align="center">
 <h4 align="center">Proyecto con Java 21 y springBoot 3</h4>
 <p>
