@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> Hola, soy Cristian Zanabria 👋  </h1>
 </div>
-<img src="https://media.licdn.com/dms/image/v2/D5616AQF5NApL6ZMiFA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1686532953253?e=1741824000&v=beta&t=29HqZ6SIIMcGQx7ZFKXe_HutKE2m5jK4sM2LPhb9DPY">
+<img src="">
 
 ## Sobre mi
 
