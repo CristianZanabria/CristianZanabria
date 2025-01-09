@@ -50,40 +50,5 @@ integrando seguridad con Spring Security y autenticación basada en JWT
 </table>                                                                                 
 </div>
 <br>
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Proyecto con Java WebFlux</h3>
-<div align="center">
-<a href="" target="_blank"><img src="" width="400" alt="Proyecto con Java WebFlux"></a>
-<p>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>       
-
-<td width="50%">
-<h3 align="center">Proyecto de reservación de restaurante</h3>
-<div align="center">
-<a href="" target="_blank"><img src="" width="400" alt="Proyecto con Java 21 y springBoot 3"></a>
-<p>
-<a href="https://github.com/CristianZanabria/restaurant_reservation_api.git" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Este proyecto está desarrollado con<strong> Java 21 y Spring Boot 3 </strong> 
-integrando seguridad con Spring Security y autenticación basada en JWT 
-  <strong>Además, </strong>cuenta con una pasarela de pagos implementada con <strong> PayPal,
-   </strong> permitiendo gestionar reservas y pagos de manera segura y eficiente.</p>
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
 
 
