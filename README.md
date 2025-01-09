@@ -17,9 +17,18 @@
 <h3 align="center">Ventas en Línea</h3>
 <div align="center">
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-17-blue" alt="Java">
-  <img src="https://img.shields.io/badge/SpringBoot-3-green" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/JWT-Security-yellow" alt="JWT">
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-17-blue" alt="Java" style="margin: 5px;">
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.shields.io/badge/SpringBoot-3-green" alt="Spring Boot" style="margin: 5px;">
+  </a>
+  <a href="https://jwt.io/" target="_blank">
+    <img src="https://img.shields.io/badge/JWT-Security-yellow" alt="JWT" style="margin: 5px;">
+  </a>
+  <a href="https://spring.io/projects/spring-security" target="_blank">
+    <img src="https://img.shields.io/badge/Spring%20Security-Enabled-brightgreen" alt="Spring Security" style="margin: 5px;">
+  </a>
 </div>
 <p>
 <a href="https://github.com/CristianZanabria/Sales-BackEnd/tree/7c1dd6a5e2a3129f9d7a5a29c33bf391b2404a12/zdevs-sales" target="_blank">
