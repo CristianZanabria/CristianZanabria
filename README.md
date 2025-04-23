@@ -37,7 +37,8 @@
 </a>
 </p>
 <div>
-<p>Ventas en Línea es una aplicación desarrollada en <strong>Java 17</strong> utilizando el framework <strong> Spring Boot 3</strong>, orientada a la gestión de procesos de compra y venta de productos en línea.
+<p>Ventas en Línea es una aplicación desarrollada en <strong>Java 17</strong> utilizando el framework <strong> Spring Boot 3</strong>, 
+  orientada a la gestión de procesos de compra y venta de productos en línea.
   El proyecto implementa un sistema de autenticación y autorización basado en<strong> JWT (JSON Web Tokens) y Spring Security</strong>
   , asegurando la protección de los recursos mediante buenas prácticas de seguridad.</p>
 </div>
@@ -69,10 +70,10 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Esta aplicación fue desarrollada con<strong> Java 21</strong> y <strong>Spring Boot 3 </strong> 
-, integrando seguridad con <strong>JWT y Spring Security</strong> para una autenticación segura. 
-Además, cuenta con una pasarela de pagos con <strong> PayPal,
-   </strong> lo que permite gestionar reservaciones y realizar pagos de forma segura, rápida y eficiente.</p>
+<p>Esta aplicación fue desarrollada con<strong> Java 21</strong> y <strong>Spring Boot 3 </strong>, 
+  integrando seguridad con <strong>JWT y Spring Security</strong> para una autenticación segura. 
+  Además, cuenta con una pasarela de pagos con <strong> PayPal</strong>,
+  lo que permite gestionar reservaciones y realizar pagos de forma segura, rápida y eficiente.</p>
 </div>
                                                                                       
 </td>  
